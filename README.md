@@ -55,7 +55,7 @@ This project leverages the YOLOv8 object detection model to detect persons and t
 
 ## 2. Inference (AI Backend)
 
-The trained models are used for inference on new images using `person_ppe_inference.py`. Detection results for persons and PPE are saved as JSON files in structured directories (`person_detection` and `ppe_detection`).
+The trained models are used for inference on new images using `person_ppe_inference.py` in person_ppe_inference folder. Detection results for persons and PPE are saved as JSON files in structured directories (`person_detection` and `ppe_detection`).
 
 ---
 
