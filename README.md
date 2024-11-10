@@ -57,6 +57,13 @@ This project leverages the YOLOv8 object detection model to detect persons and t
 
 The trained models are used for inference on new images using `person_ppe_inference.py` in person_ppe_inference folder. Detection results for persons and PPE are saved as JSON files in structured directories (`person_detection` and `ppe_detection`).
 
+Person Detection 
+![](person_ppe_inference/outputs/person_detection/ppe_0153_jpg.rf.0a7eb92dfb9f20c77848ea88eda2cf3c.jpg)
+
+PPE Detection
+
+![](person_ppe_inference/outputs/ppe_detection/ppe_0153_jpg.rf.0a7eb92dfb9f20c77848ea88eda2cf3c.jpg)
+
 ---
 
 ## 3. Flask API Backend
