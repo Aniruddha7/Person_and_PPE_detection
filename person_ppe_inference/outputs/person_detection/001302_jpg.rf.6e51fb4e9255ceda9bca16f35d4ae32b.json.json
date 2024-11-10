@@ -1,0 +1,46 @@
+[
+    {
+        "filename": "outputs/person_detection/001302_jpg.rf.6e51fb4e9255ceda9bca16f35d4ae32b.jpg",
+        "bbox": [
+            15.597824096679688,
+            243.13751220703125,
+            186.03468322753906,
+            640.0
+        ],
+        "class": "person",
+        "Confidence": 0.8997492790222168
+    },
+    {
+        "filename": "outputs/person_detection/001302_jpg.rf.6e51fb4e9255ceda9bca16f35d4ae32b.jpg",
+        "bbox": [
+            482.5749206542969,
+            331.00494384765625,
+            547.98974609375,
+            614.4191284179688
+        ],
+        "class": "person",
+        "Confidence": 0.8974288105964661
+    },
+    {
+        "filename": "outputs/person_detection/001302_jpg.rf.6e51fb4e9255ceda9bca16f35d4ae32b.jpg",
+        "bbox": [
+            367.68212890625,
+            117.8148193359375,
+            456.69317626953125,
+            579.8464965820312
+        ],
+        "class": "person",
+        "Confidence": 0.8693217635154724
+    },
+    {
+        "filename": "outputs/person_detection/001302_jpg.rf.6e51fb4e9255ceda9bca16f35d4ae32b.jpg",
+        "bbox": [
+            235.51162719726562,
+            314.998779296875,
+            281.6816711425781,
+            464.87274169921875
+        ],
+        "class": "person",
+        "Confidence": 0.8550525307655334
+    }
+]

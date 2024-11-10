@@ -1,0 +1,24 @@
+[
+    {
+        "filename": "outputs/person_detection/ppe_0153_jpg.rf.0a7eb92dfb9f20c77848ea88eda2cf3c.jpg",
+        "bbox": [
+            324.93682861328125,
+            17.22503662109375,
+            590.7915649414062,
+            640.0
+        ],
+        "class": "person",
+        "Confidence": 0.8747962117195129
+    },
+    {
+        "filename": "outputs/person_detection/ppe_0153_jpg.rf.0a7eb92dfb9f20c77848ea88eda2cf3c.jpg",
+        "bbox": [
+            100.27755737304688,
+            13.9188232421875,
+            273.1982421875,
+            627.4461669921875
+        ],
+        "class": "person",
+        "Confidence": 0.8515754342079163
+    }
+]

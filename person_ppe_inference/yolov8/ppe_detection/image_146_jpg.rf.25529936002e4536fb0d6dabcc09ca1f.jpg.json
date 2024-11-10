@@ -1,0 +1,68 @@
+[
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/image_146_jpg.rf.25529936002e4536fb0d6dabcc09ca1f.jpg",
+        "bbox": [
+            261.65692138671875,
+            565.0804443359375,
+            315.37213134765625,
+            606.2183837890625
+        ],
+        "class": "boots",
+        "Confidence": 0.9347871541976929
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/image_146_jpg.rf.25529936002e4536fb0d6dabcc09ca1f.jpg",
+        "bbox": [
+            243.73580932617188,
+            212.67800903320312,
+            358.7149963378906,
+            391.5231628417969
+        ],
+        "class": "vest",
+        "Confidence": 0.923638641834259
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/image_146_jpg.rf.25529936002e4536fb0d6dabcc09ca1f.jpg",
+        "bbox": [
+            352.9103088378906,
+            176.454833984375,
+            377.6955261230469,
+            239.41848754882812
+        ],
+        "class": "gloves",
+        "Confidence": 0.9123127460479736
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/image_146_jpg.rf.25529936002e4536fb0d6dabcc09ca1f.jpg",
+        "bbox": [
+            334.4981689453125,
+            563.3018798828125,
+            372.564697265625,
+            610.1859130859375
+        ],
+        "class": "boots",
+        "Confidence": 0.9080694913864136
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/image_146_jpg.rf.25529936002e4536fb0d6dabcc09ca1f.jpg",
+        "bbox": [
+            271.9114990234375,
+            127.0904541015625,
+            328.61065673828125,
+            182.50811767578125
+        ],
+        "class": "hard-hat",
+        "Confidence": 0.8895686864852905
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/image_146_jpg.rf.25529936002e4536fb0d6dabcc09ca1f.jpg",
+        "bbox": [
+            230.64407348632812,
+            161.89804077148438,
+            266.94305419921875,
+            247.63922119140625
+        ],
+        "class": "gloves",
+        "Confidence": 0.45634907484054565
+    }
+]

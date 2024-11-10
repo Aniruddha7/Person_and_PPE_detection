@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 6
+names: ['hard-hat', 'gloves', 'mask', 'boots', 'vest', 'ppe-suit']
+
+roboflow:
+  workspace: aniruddha-kashyap
+  project: ppe_detection-hu04b
+  version: 1
+  license: Private
+  url: https://app.roboflow.com/aniruddha-kashyap/ppe_detection-hu04b/1

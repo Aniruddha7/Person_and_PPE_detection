@@ -1,0 +1,79 @@
+[
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/image_159_jpg.rf.78384da46806648d1d48139eacdac9ab.jpg",
+        "bbox": [
+            196.70516967773438,
+            99.26837158203125,
+            245.18197631835938,
+            143.78741455078125
+        ],
+        "class": "hard-hat",
+        "Confidence": 0.9025688171386719
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/image_159_jpg.rf.78384da46806648d1d48139eacdac9ab.jpg",
+        "bbox": [
+            171.14663696289062,
+            181.1162567138672,
+            287.0108947753906,
+            332.77227783203125
+        ],
+        "class": "vest",
+        "Confidence": 0.9009515643119812
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/image_159_jpg.rf.78384da46806648d1d48139eacdac9ab.jpg",
+        "bbox": [
+            274.5951232910156,
+            109.31820678710938,
+            308.7676696777344,
+            170.45297241210938
+        ],
+        "class": "gloves",
+        "Confidence": 0.871261715888977
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/image_159_jpg.rf.78384da46806648d1d48139eacdac9ab.jpg",
+        "bbox": [
+            129.93777465820312,
+            105.57989501953125,
+            163.65701293945312,
+            175.87274169921875
+        ],
+        "class": "gloves",
+        "Confidence": 0.8695131540298462
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/image_159_jpg.rf.78384da46806648d1d48139eacdac9ab.jpg",
+        "bbox": [
+            255.51963806152344,
+            543.6539916992188,
+            282.070556640625,
+            575.4705200195312
+        ],
+        "class": "boots",
+        "Confidence": 0.8689679503440857
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/image_159_jpg.rf.78384da46806648d1d48139eacdac9ab.jpg",
+        "bbox": [
+            225.82635498046875,
+            546.0916748046875,
+            252.5609130859375,
+            578.0137939453125
+        ],
+        "class": "boots",
+        "Confidence": 0.8086827993392944
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/image_159_jpg.rf.78384da46806648d1d48139eacdac9ab.jpg",
+        "bbox": [
+            17.96881103515625,
+            112.4659423828125,
+            383.9436340332031,
+            571.568359375
+        ],
+        "class": "ppe-suit",
+        "Confidence": 0.2989501655101776
+    }
+]

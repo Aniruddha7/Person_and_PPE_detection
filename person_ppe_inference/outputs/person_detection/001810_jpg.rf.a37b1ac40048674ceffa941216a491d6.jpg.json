@@ -1,0 +1,24 @@
+[
+    {
+        "filename": "outputs/person_detection/001810_jpg.rf.a37b1ac40048674ceffa941216a491d6.jpg",
+        "bbox": [
+            245.27316284179688,
+            141.24542236328125,
+            462.4217834472656,
+            640.0
+        ],
+        "class": "person",
+        "Confidence": 0.955615758895874
+    },
+    {
+        "filename": "outputs/person_detection/001810_jpg.rf.a37b1ac40048674ceffa941216a491d6.jpg",
+        "bbox": [
+            24.6097412109375,
+            148.80072021484375,
+            246.62994384765625,
+            640.0
+        ],
+        "class": "person",
+        "Confidence": 0.8976368308067322
+    }
+]

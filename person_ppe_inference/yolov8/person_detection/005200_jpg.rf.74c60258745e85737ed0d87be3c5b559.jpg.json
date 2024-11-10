@@ -1,0 +1,68 @@
+[
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/person_detection/005200_jpg.rf.74c60258745e85737ed0d87be3c5b559.jpg",
+        "bbox": [
+            287.119873046875,
+            107.53619384765625,
+            432.96795654296875,
+            638.065185546875
+        ],
+        "class": "person",
+        "Confidence": 0.9057395458221436
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/person_detection/005200_jpg.rf.74c60258745e85737ed0d87be3c5b559.jpg",
+        "bbox": [
+            20.53167724609375,
+            139.41737365722656,
+            222.38482666015625,
+            640.0
+        ],
+        "class": "person",
+        "Confidence": 0.8919700384140015
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/person_detection/005200_jpg.rf.74c60258745e85737ed0d87be3c5b559.jpg",
+        "bbox": [
+            454.26666259765625,
+            58.358642578125,
+            587.2323608398438,
+            639.3541259765625
+        ],
+        "class": "person",
+        "Confidence": 0.8803463578224182
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/person_detection/005200_jpg.rf.74c60258745e85737ed0d87be3c5b559.jpg",
+        "bbox": [
+            393.1644287109375,
+            134.099365234375,
+            471.2569580078125,
+            542.9783935546875
+        ],
+        "class": "person",
+        "Confidence": 0.8246638774871826
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/person_detection/005200_jpg.rf.74c60258745e85737ed0d87be3c5b559.jpg",
+        "bbox": [
+            213.75289916992188,
+            162.04534912109375,
+            313.1617736816406,
+            640.0
+        ],
+        "class": "person",
+        "Confidence": 0.7939161658287048
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/person_detection/005200_jpg.rf.74c60258745e85737ed0d87be3c5b559.jpg",
+        "bbox": [
+            392.3564453125,
+            65.150634765625,
+            597.4639282226562,
+            640.0
+        ],
+        "class": "person",
+        "Confidence": 0.25741541385650635
+    }
+]

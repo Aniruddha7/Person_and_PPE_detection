@@ -1,0 +1,68 @@
+[
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/001107_jpg.rf.e24df474617124db532de99c3f30ae1b.jpg",
+        "bbox": [
+            251.12933349609375,
+            296.7274169921875,
+            293.85992431640625,
+            374.85986328125
+        ],
+        "class": "hard-hat",
+        "Confidence": 0.8830814361572266
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/001107_jpg.rf.e24df474617124db532de99c3f30ae1b.jpg",
+        "bbox": [
+            406.2230224609375,
+            217.5963134765625,
+            435.61962890625,
+            258.044189453125
+        ],
+        "class": "hard-hat",
+        "Confidence": 0.8621530532836914
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/001107_jpg.rf.e24df474617124db532de99c3f30ae1b.jpg",
+        "bbox": [
+            340.1077880859375,
+            101.5252685546875,
+            355.562255859375,
+            121.68045043945312
+        ],
+        "class": "hard-hat",
+        "Confidence": 0.8111239075660706
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/001107_jpg.rf.e24df474617124db532de99c3f30ae1b.jpg",
+        "bbox": [
+            224.11328125,
+            294.0221252441406,
+            259.70556640625,
+            333.7052917480469
+        ],
+        "class": "gloves",
+        "Confidence": 0.6926295757293701
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/001107_jpg.rf.e24df474617124db532de99c3f30ae1b.jpg",
+        "bbox": [
+            295.5465087890625,
+            107.74211120605469,
+            306.40673828125,
+            120.66584777832031
+        ],
+        "class": "hard-hat",
+        "Confidence": 0.6023624539375305
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/001107_jpg.rf.e24df474617124db532de99c3f30ae1b.jpg",
+        "bbox": [
+            402.15606689453125,
+            294.9034423828125,
+            422.70263671875,
+            316.6588134765625
+        ],
+        "class": "gloves",
+        "Confidence": 0.40846824645996094
+    }
+]

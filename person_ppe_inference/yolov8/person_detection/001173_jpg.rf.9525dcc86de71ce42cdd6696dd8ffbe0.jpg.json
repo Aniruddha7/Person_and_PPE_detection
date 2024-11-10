@@ -1,0 +1,24 @@
+[
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/person_detection/001173_jpg.rf.9525dcc86de71ce42cdd6696dd8ffbe0.jpg",
+        "bbox": [
+            126.89422607421875,
+            44.9388427734375,
+            276.87939453125,
+            526.5346069335938
+        ],
+        "class": "person",
+        "Confidence": 0.884361207485199
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/person_detection/001173_jpg.rf.9525dcc86de71ce42cdd6696dd8ffbe0.jpg",
+        "bbox": [
+            335.66009521484375,
+            127.31666564941406,
+            432.32000732421875,
+            508.6893310546875
+        ],
+        "class": "person",
+        "Confidence": 0.84811931848526
+    }
+]

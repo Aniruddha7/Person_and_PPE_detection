@@ -1,0 +1,35 @@
+[
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/001831_jpg.rf.4d5cda2c7161fb94486d0fc5a719172c.jpg",
+        "bbox": [
+            335.31365966796875,
+            229.36610412597656,
+            384.5771484375,
+            287.548583984375
+        ],
+        "class": "hard-hat",
+        "Confidence": 0.8995936512947083
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/001831_jpg.rf.4d5cda2c7161fb94486d0fc5a719172c.jpg",
+        "bbox": [
+            190.78057861328125,
+            299.4986572265625,
+            233.920166015625,
+            349.54656982421875
+        ],
+        "class": "hard-hat",
+        "Confidence": 0.8987362384796143
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/001831_jpg.rf.4d5cda2c7161fb94486d0fc5a719172c.jpg",
+        "bbox": [
+            201.5790252685547,
+            376.66693115234375,
+            235.9281768798828,
+            413.5313720703125
+        ],
+        "class": "gloves",
+        "Confidence": 0.7874621748924255
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/001284_jpg.rf.1a8498584034f0c4934f0f33dcbd1387.jpg",
+        "bbox": [
+            409.123779296875,
+            505.43402099609375,
+            433.5743408203125,
+            525.2821655273438
+        ],
+        "class": "boots",
+        "Confidence": 0.8040362000465393
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/001284_jpg.rf.1a8498584034f0c4934f0f33dcbd1387.jpg",
+        "bbox": [
+            340.8106994628906,
+            266.6083984375,
+            354.8275451660156,
+            280.695556640625
+        ],
+        "class": "hard-hat",
+        "Confidence": 0.7054286003112793
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/001284_jpg.rf.1a8498584034f0c4934f0f33dcbd1387.jpg",
+        "bbox": [
+            355.82745361328125,
+            257.5945739746094,
+            376.22430419921875,
+            279.3075256347656
+        ],
+        "class": "hard-hat",
+        "Confidence": 0.7045797109603882
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/001284_jpg.rf.1a8498584034f0c4934f0f33dcbd1387.jpg",
+        "bbox": [
+            326.8937072753906,
+            500.15240478515625,
+            351.1325988769531,
+            516.9146118164062
+        ],
+        "class": "boots",
+        "Confidence": 0.6865586638450623
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/001284_jpg.rf.1a8498584034f0c4934f0f33dcbd1387.jpg",
+        "bbox": [
+            441.595458984375,
+            518.1611328125,
+            459.5899658203125,
+            538.177734375
+        ],
+        "class": "boots",
+        "Confidence": 0.6703632473945618
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/001284_jpg.rf.1a8498584034f0c4934f0f33dcbd1387.jpg",
+        "bbox": [
+            363.7079772949219,
+            463.87054443359375,
+            374.8935241699219,
+            481.27374267578125
+        ],
+        "class": "boots",
+        "Confidence": 0.6383976936340332
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/001284_jpg.rf.1a8498584034f0c4934f0f33dcbd1387.jpg",
+        "bbox": [
+            434.61187744140625,
+            237.23114013671875,
+            454.88848876953125,
+            262.2506103515625
+        ],
+        "class": "hard-hat",
+        "Confidence": 0.2605487108230591
+    }
+]

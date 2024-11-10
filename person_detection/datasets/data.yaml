@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['person']
+
+roboflow:
+  workspace: aniruddha-kashyap
+  project: person_detection-6k57s
+  version: 1
+  license: Private
+  url: https://app.roboflow.com/aniruddha-kashyap/person_detection-6k57s/1

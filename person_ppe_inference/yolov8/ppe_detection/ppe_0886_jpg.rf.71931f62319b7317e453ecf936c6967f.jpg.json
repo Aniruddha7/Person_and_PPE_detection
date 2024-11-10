@@ -1,0 +1,68 @@
+[
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/ppe_0886_jpg.rf.71931f62319b7317e453ecf936c6967f.jpg",
+        "bbox": [
+            361.5103759765625,
+            91.8945541381836,
+            439.0784912109375,
+            175.23593139648438
+        ],
+        "class": "hard-hat",
+        "Confidence": 0.9352196455001831
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/ppe_0886_jpg.rf.71931f62319b7317e453ecf936c6967f.jpg",
+        "bbox": [
+            221.26974487304688,
+            117.29664611816406,
+            288.2994689941406,
+            190.7957000732422
+        ],
+        "class": "hard-hat",
+        "Confidence": 0.9337262511253357
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/ppe_0886_jpg.rf.71931f62319b7317e453ecf936c6967f.jpg",
+        "bbox": [
+            362.2371826171875,
+            193.70880126953125,
+            471.2628173828125,
+            479.32843017578125
+        ],
+        "class": "vest",
+        "Confidence": 0.8894368410110474
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/ppe_0886_jpg.rf.71931f62319b7317e453ecf936c6967f.jpg",
+        "bbox": [
+            159.10543823242188,
+            201.06532287597656,
+            318.22283935546875,
+            505.8717041015625
+        ],
+        "class": "vest",
+        "Confidence": 0.7760385870933533
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/ppe_0886_jpg.rf.71931f62319b7317e453ecf936c6967f.jpg",
+        "bbox": [
+            342.1368408203125,
+            203.78903198242188,
+            388.20355224609375,
+            264.9963073730469
+        ],
+        "class": "gloves",
+        "Confidence": 0.6518443822860718
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/ppe_0886_jpg.rf.71931f62319b7317e453ecf936c6967f.jpg",
+        "bbox": [
+            163.92483520507812,
+            202.64781188964844,
+            307.1285095214844,
+            363.38525390625
+        ],
+        "class": "vest",
+        "Confidence": 0.5201786756515503
+    }
+]

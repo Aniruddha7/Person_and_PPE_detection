@@ -1,0 +1,57 @@
+[
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/person_detection/001107_jpg.rf.e24df474617124db532de99c3f30ae1b.jpg",
+        "bbox": [
+            209.16232299804688,
+            295.314453125,
+            309.0773620605469,
+            491.7955322265625
+        ],
+        "class": "person",
+        "Confidence": 0.9014928340911865
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/person_detection/001107_jpg.rf.e24df474617124db532de99c3f30ae1b.jpg",
+        "bbox": [
+            373.81280517578125,
+            216.380615234375,
+            446.1435546875,
+            380.72467041015625
+        ],
+        "class": "person",
+        "Confidence": 0.8506428003311157
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/person_detection/001107_jpg.rf.e24df474617124db532de99c3f30ae1b.jpg",
+        "bbox": [
+            322.75347900390625,
+            101.93280029296875,
+            377.32635498046875,
+            273.5166015625
+        ],
+        "class": "person",
+        "Confidence": 0.8364693522453308
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/person_detection/001107_jpg.rf.e24df474617124db532de99c3f30ae1b.jpg",
+        "bbox": [
+            287.43194580078125,
+            108.7226791381836,
+            307.51055908203125,
+            171.04232788085938
+        ],
+        "class": "person",
+        "Confidence": 0.542684018611908
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/person_detection/001107_jpg.rf.e24df474617124db532de99c3f30ae1b.jpg",
+        "bbox": [
+            287.2007751464844,
+            108.88497161865234,
+            307.0175476074219,
+            204.43844604492188
+        ],
+        "class": "person",
+        "Confidence": 0.5364353656768799
+    }
+]

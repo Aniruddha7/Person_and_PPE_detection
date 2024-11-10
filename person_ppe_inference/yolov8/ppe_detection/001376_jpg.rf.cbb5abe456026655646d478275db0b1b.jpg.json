@@ -1,0 +1,24 @@
+[
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/001376_jpg.rf.cbb5abe456026655646d478275db0b1b.jpg",
+        "bbox": [
+            412.4685974121094,
+            194.76022338867188,
+            440.3147277832031,
+            242.58102416992188
+        ],
+        "class": "gloves",
+        "Confidence": 0.6994872093200684
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/001376_jpg.rf.cbb5abe456026655646d478275db0b1b.jpg",
+        "bbox": [
+            494.3490905761719,
+            53.79180908203125,
+            552.611572265625,
+            127.83296203613281
+        ],
+        "class": "hard-hat",
+        "Confidence": 0.6906960010528564
+    }
+]

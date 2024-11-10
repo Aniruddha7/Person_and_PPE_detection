@@ -1,0 +1,79 @@
+[
+    {
+        "filename": "outputs/ppe_detection/001302_jpg.rf.6e51fb4e9255ceda9bca16f35d4ae32b.jpg",
+        "bbox": [
+            58.56257247924805,
+            244.3426513671875,
+            178.86485290527344,
+            365.50494384765625
+        ],
+        "class": "hard-hat",
+        "Confidence": 0.9675901532173157
+    },
+    {
+        "filename": "outputs/ppe_detection/001302_jpg.rf.6e51fb4e9255ceda9bca16f35d4ae32b.jpg",
+        "bbox": [
+            483.9974060058594,
+            370.174072265625,
+            548.0201416015625,
+            601.1953735351562
+        ],
+        "class": "ppe-suit",
+        "Confidence": 0.9458441734313965
+    },
+    {
+        "filename": "outputs/ppe_detection/001302_jpg.rf.6e51fb4e9255ceda9bca16f35d4ae32b.jpg",
+        "bbox": [
+            15.735382080078125,
+            397.7908020019531,
+            178.1605224609375,
+            640.0
+        ],
+        "class": "ppe-suit",
+        "Confidence": 0.9184204339981079
+    },
+    {
+        "filename": "outputs/ppe_detection/001302_jpg.rf.6e51fb4e9255ceda9bca16f35d4ae32b.jpg",
+        "bbox": [
+            367.71002197265625,
+            179.4718017578125,
+            453.17364501953125,
+            561.4116821289062
+        ],
+        "class": "ppe-suit",
+        "Confidence": 0.9157832264900208
+    },
+    {
+        "filename": "outputs/ppe_detection/001302_jpg.rf.6e51fb4e9255ceda9bca16f35d4ae32b.jpg",
+        "bbox": [
+            406.16717529296875,
+            116.61602020263672,
+            455.62030029296875,
+            175.93017578125
+        ],
+        "class": "hard-hat",
+        "Confidence": 0.8951132893562317
+    },
+    {
+        "filename": "outputs/ppe_detection/001302_jpg.rf.6e51fb4e9255ceda9bca16f35d4ae32b.jpg",
+        "bbox": [
+            491.095458984375,
+            329.62725830078125,
+            516.7937622070312,
+            355.77862548828125
+        ],
+        "class": "hard-hat",
+        "Confidence": 0.8364512324333191
+    },
+    {
+        "filename": "outputs/ppe_detection/001302_jpg.rf.6e51fb4e9255ceda9bca16f35d4ae32b.jpg",
+        "bbox": [
+            390.0325927734375,
+            548.728271484375,
+            406.0946044921875,
+            579.021728515625
+        ],
+        "class": "boots",
+        "Confidence": 0.4729173481464386
+    }
+]

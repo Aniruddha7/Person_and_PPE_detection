@@ -1,0 +1,46 @@
+[
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/005184_jpg.rf.2dcf5e8be46b4defca1aced34fecbc9f.jpg",
+        "bbox": [
+            316.5401306152344,
+            62.46493148803711,
+            380.7408142089844,
+            164.42691040039062
+        ],
+        "class": "hard-hat",
+        "Confidence": 0.8315943479537964
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/005184_jpg.rf.2dcf5e8be46b4defca1aced34fecbc9f.jpg",
+        "bbox": [
+            412.5482177734375,
+            401.0604248046875,
+            505.326171875,
+            510.8671875
+        ],
+        "class": "hard-hat",
+        "Confidence": 0.6337824463844299
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/005184_jpg.rf.2dcf5e8be46b4defca1aced34fecbc9f.jpg",
+        "bbox": [
+            153.28533935546875,
+            9.3375244140625,
+            224.2115478515625,
+            147.55142211914062
+        ],
+        "class": "vest",
+        "Confidence": 0.4760105311870575
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/005184_jpg.rf.2dcf5e8be46b4defca1aced34fecbc9f.jpg",
+        "bbox": [
+            11.63002872467041,
+            366.3194885253906,
+            37.44702911376953,
+            410.9768371582031
+        ],
+        "class": "gloves",
+        "Confidence": 0.29824578762054443
+    }
+]

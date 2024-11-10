@@ -1,0 +1,46 @@
+[
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/005141_jpg.rf.c642e79f59777903de561ee7cc8883d4.jpg",
+        "bbox": [
+            199.6897430419922,
+            159.72686767578125,
+            226.4617156982422,
+            196.72491455078125
+        ],
+        "class": "hard-hat",
+        "Confidence": 0.8420210480690002
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/005141_jpg.rf.c642e79f59777903de561ee7cc8883d4.jpg",
+        "bbox": [
+            418.44891357421875,
+            127.53152465820312,
+            447.77423095703125,
+            155.96786499023438
+        ],
+        "class": "hard-hat",
+        "Confidence": 0.6780286431312561
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/005141_jpg.rf.c642e79f59777903de561ee7cc8883d4.jpg",
+        "bbox": [
+            227.92340087890625,
+            415.850341796875,
+            250.73388671875,
+            445.407958984375
+        ],
+        "class": "boots",
+        "Confidence": 0.5757943987846375
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/005141_jpg.rf.c642e79f59777903de561ee7cc8883d4.jpg",
+        "bbox": [
+            279.3866271972656,
+            114.0009536743164,
+            313.5945129394531,
+            148.86135864257812
+        ],
+        "class": "hard-hat",
+        "Confidence": 0.5662078261375427
+    }
+]

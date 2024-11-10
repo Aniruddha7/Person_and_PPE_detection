@@ -1,0 +1,13 @@
+[
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/person_detection/005038_jpg.rf.f6fbf32a5d55f9e314e6f5f9fa97854c.jpg",
+        "bbox": [
+            0.0,
+            135.95875549316406,
+            456.8940734863281,
+            640.0
+        ],
+        "class": "person",
+        "Confidence": 0.7859490513801575
+    }
+]

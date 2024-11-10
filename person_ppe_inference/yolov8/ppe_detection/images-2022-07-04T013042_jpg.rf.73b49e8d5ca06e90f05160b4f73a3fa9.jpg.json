@@ -1,0 +1,13 @@
+[
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/images-2022-07-04T013042_jpg.rf.73b49e8d5ca06e90f05160b4f73a3fa9.jpg",
+        "bbox": [
+            454.552978515625,
+            29.337509155273438,
+            539.2122802734375,
+            127.69557189941406
+        ],
+        "class": "hard-hat",
+        "Confidence": 0.9304441213607788
+    }
+]

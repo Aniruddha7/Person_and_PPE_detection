@@ -1,0 +1,68 @@
+[
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/001173_jpg.rf.9525dcc86de71ce42cdd6696dd8ffbe0.jpg",
+        "bbox": [
+            168.02627563476562,
+            46.36198425292969,
+            225.75039672851562,
+            96.9222412109375
+        ],
+        "class": "hard-hat",
+        "Confidence": 0.8824555277824402
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/001173_jpg.rf.9525dcc86de71ce42cdd6696dd8ffbe0.jpg",
+        "bbox": [
+            368.28753662109375,
+            132.27403259277344,
+            401.784423828125,
+            168.4130401611328
+        ],
+        "class": "hard-hat",
+        "Confidence": 0.8455727696418762
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/001173_jpg.rf.9525dcc86de71ce42cdd6696dd8ffbe0.jpg",
+        "bbox": [
+            116.04595184326172,
+            94.11956787109375,
+            266.62451171875,
+            525.453369140625
+        ],
+        "class": "ppe-suit",
+        "Confidence": 0.7522466778755188
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/001173_jpg.rf.9525dcc86de71ce42cdd6696dd8ffbe0.jpg",
+        "bbox": [
+            397.626220703125,
+            481.78509521484375,
+            416.7545166015625,
+            507.77447509765625
+        ],
+        "class": "boots",
+        "Confidence": 0.732869029045105
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/001173_jpg.rf.9525dcc86de71ce42cdd6696dd8ffbe0.jpg",
+        "bbox": [
+            337.52655029296875,
+            481.59832763671875,
+            374.613525390625,
+            502.1688232421875
+        ],
+        "class": "boots",
+        "Confidence": 0.6569751501083374
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/001173_jpg.rf.9525dcc86de71ce42cdd6696dd8ffbe0.jpg",
+        "bbox": [
+            336.4723205566406,
+            186.4322967529297,
+            434.4457702636719,
+            496.32867431640625
+        ],
+        "class": "ppe-suit",
+        "Confidence": 0.41175416111946106
+    }
+]

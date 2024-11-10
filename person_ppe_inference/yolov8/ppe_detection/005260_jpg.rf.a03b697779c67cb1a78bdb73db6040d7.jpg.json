@@ -1,0 +1,68 @@
+[
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/005260_jpg.rf.a03b697779c67cb1a78bdb73db6040d7.jpg",
+        "bbox": [
+            469.14202880859375,
+            239.2456512451172,
+            538.3584594726562,
+            480.17999267578125
+        ],
+        "class": "ppe-suit",
+        "Confidence": 0.9028300046920776
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/005260_jpg.rf.a03b697779c67cb1a78bdb73db6040d7.jpg",
+        "bbox": [
+            473.5125732421875,
+            203.90916442871094,
+            507.4951171875,
+            237.8620147705078
+        ],
+        "class": "hard-hat",
+        "Confidence": 0.8627098798751831
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/005260_jpg.rf.a03b697779c67cb1a78bdb73db6040d7.jpg",
+        "bbox": [
+            494.8535461425781,
+            473.4465026855469,
+            529.293212890625,
+            493.2002868652344
+        ],
+        "class": "boots",
+        "Confidence": 0.8496885299682617
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/005260_jpg.rf.a03b697779c67cb1a78bdb73db6040d7.jpg",
+        "bbox": [
+            66.08262634277344,
+            197.88613891601562,
+            80.40809631347656,
+            215.02194213867188
+        ],
+        "class": "hard-hat",
+        "Confidence": 0.8193427324295044
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/005260_jpg.rf.a03b697779c67cb1a78bdb73db6040d7.jpg",
+        "bbox": [
+            53.42212677001953,
+            217.48175048828125,
+            92.36666107177734,
+            304.5252685546875
+        ],
+        "class": "ppe-suit",
+        "Confidence": 0.8178104162216187
+    },
+    {
+        "filename": "E:/AIMonk_Labs_Assessment/person_ppe_inference/yolov8/ppe_detection/005260_jpg.rf.a03b697779c67cb1a78bdb73db6040d7.jpg",
+        "bbox": [
+            477.8433532714844,
+            448.0526123046875,
+            503.6773376464844,
+            463.692138671875
+        ],
+        "class": "boots",
+        "Confidence": 0.5904282331466675
+    }
+]

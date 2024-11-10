@@ -1,0 +1,57 @@
+[
+    {
+        "filename": "outputs/ppe_detection/005155_jpg.rf.12b905c9f60b88116044a8e68d5cbf35.jpg",
+        "bbox": [
+            477.9367980957031,
+            175.41937255859375,
+            553.68603515625,
+            249.314453125
+        ],
+        "class": "hard-hat",
+        "Confidence": 0.9303001165390015
+    },
+    {
+        "filename": "outputs/ppe_detection/005155_jpg.rf.12b905c9f60b88116044a8e68d5cbf35.jpg",
+        "bbox": [
+            9.944513320922852,
+            161.07394409179688,
+            62.38440704345703,
+            212.68234252929688
+        ],
+        "class": "hard-hat",
+        "Confidence": 0.909339427947998
+    },
+    {
+        "filename": "outputs/ppe_detection/005155_jpg.rf.12b905c9f60b88116044a8e68d5cbf35.jpg",
+        "bbox": [
+            585.46923828125,
+            199.326171875,
+            640.0,
+            256.076171875
+        ],
+        "class": "hard-hat",
+        "Confidence": 0.8960070610046387
+    },
+    {
+        "filename": "outputs/ppe_detection/005155_jpg.rf.12b905c9f60b88116044a8e68d5cbf35.jpg",
+        "bbox": [
+            127.40338134765625,
+            172.51318359375,
+            189.24847412109375,
+            237.5955810546875
+        ],
+        "class": "hard-hat",
+        "Confidence": 0.888915479183197
+    },
+    {
+        "filename": "outputs/ppe_detection/005155_jpg.rf.12b905c9f60b88116044a8e68d5cbf35.jpg",
+        "bbox": [
+            397.77886962890625,
+            233.0396270751953,
+            460.28045654296875,
+            314.97344970703125
+        ],
+        "class": "hard-hat",
+        "Confidence": 0.7649362087249756
+    }
+]
