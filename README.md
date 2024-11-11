@@ -222,3 +222,22 @@ saved in outputs folder.
 ### Running the Flask App Locally:
 ```bash
 python app.py
+```
+### Docker implementation:
+
+Download Docker Desktop and install it. 
+
+**Build Docker image of project folder:**
+
+```bash
+docker build -t person_ppe_inference . 
+```
+
+**Run Docker image:**
+
+```bash
+docker run -p 5001:5000 -v E:/AIMonk_Labs_Assessment/person_detection/datasets/weights:/app/person_weights -v E:/AIMonk_Labs_Assessment/ppe_detection/datasets/weights:/app/ppe_weights person_ppe_inference
+```
+**Test it using Postman:**
+
+![](person_ppe_inference/Docker_output.png)
