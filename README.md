@@ -236,7 +236,7 @@ docker build -t person_ppe_inference .
 **Run Docker image:**
 
 ```bash
-docker run -p 5001:5000 -v E:/AIMonk_Labs_Assessment/person_detection/datasets/weights:/app/person_weights -v E:/AIMonk_Labs_Assessment/ppe_detection/datasets/weights:/app/ppe_weights person_ppe_inference
+docker run -p 5001:5000 -v E:/AIMonk_Labs_Assessment/person_detection/datasets/weights:/app/person_weights -v E:/AIMonk_Labs_Assessment/ppe_detection/datasets/weights:/app/ppe_weights -v E:/AIMonk_Labs_Assessment/person_ppe_inference/outputs:/app/outputs person_ppe_inference 
 ```
 **Test it using Postman:**
 
