@@ -19,11 +19,9 @@ if not os.path.exists(UPLOAD_FOLDER and OUTPUT_FOLDER):
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 app.config['OUTPUT_FOLDER'] = OUTPUT_FOLDER
 
-person_det ='E:/AIMonk_Labs_Assessment/person_detection/datasets/weights/person_det_best.pt'
-ppe_det = 'E:/AIMonk_Labs_Assessment/PPE_detection/datasets/weights/PPE_det_best.pt'
+person_det = '/app/person_weights/person_det_best.pt'
+ppe_det = '/app/ppe_weights/PPE_det_best.pt'
 
-#person_model= YOLO(model=person_det)
-#ppe_model= YOLO(model= ppe_det)
 
 @app.route('/upload', methods = ['POST'])
 def upload_file():

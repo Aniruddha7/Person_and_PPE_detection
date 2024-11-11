@@ -13,9 +13,8 @@ WORKDIR /app
 # Copy the requirements.txt to the container
 COPY requirements.txt .
 
-# Install dependencies with caching optimization
-RUN --mount=type=cache,target=/root/.cache/pip \
-    pip install --no-cache-dir --default-timeout=1000 -i https://pypi.org/simple -r requirements.txt
+# Install Python dependencies with no cache
+RUN pip install --no-cache-dir --default-timeout=1000 -i https://pypi.org/simple -r requirements.txt
 
 # Copy the rest of your application code into the container
 COPY . .
@@ -24,4 +23,4 @@ COPY . .
 EXPOSE 5000
 
 # Run the application
-CMD ["python", "person_ppe_inference/app.py"]
+CMD ["python", "app.py"]
